@@ -9,7 +9,7 @@
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-AhmetDemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetdemir/)](https://www.linkedin.com/in/ahmetdemir/)
-  [![Gmail Badge](https://img.shields.io/badge/-demirahmet_2017@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmet@example.com)](mailto:ahmet@example.com)
+  [![Gmail Badge](https://img.shields.io/badge/-demirahmet2017@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:demirahmet2017@gmail.com)](mailto:demirahmet2017@gmail.com)
   ![](https://komarev.com/ghpvc/?username=demrdev&color=brightgreen&style=flat-square)
   <img src="https://img.shields.io/github/followers/demrdev?label=Follow&style=social" />
   
@@ -120,9 +120,9 @@ Frontend_Development:
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetdemir)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demirahmet2017@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/demrdev)
 
 </div>
 
