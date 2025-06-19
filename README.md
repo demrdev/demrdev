@@ -136,8 +136,11 @@ Frontend_Development:
 
 <div align="center">
   
-![Snake animation](https://github.com/demrdev/demrdev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/demrdev/demrdev/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demrdev/demrdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demrdev/demrdev/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/demrdev/demrdev/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 
 </div>
 
@@ -147,39 +150,25 @@ Frontend_Development:
   <img src="https://github-profile-trophy.vercel.app/?username=demrdev&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophy" />
 </div>
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C140%20hrs%2032%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                40 commits       ███░░░░░░░░░░░░░░░░░░   12.5%
-🌆 Daytime                85 commits       ██████░░░░░░░░░░░░░░░   26.6%
-🌃 Evening                120 commits      █████████░░░░░░░░░░░░   37.5%
-🌙 Night                  75 commits       ██████░░░░░░░░░░░░░░░   23.4%
-```
-
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   45 commits       ███░░░░░░░░░░░░░░░░░░   14.1%
-Tuesday                  40 commits       ███░░░░░░░░░░░░░░░░░░   12.5%
-Wednesday                35 commits       ██░░░░░░░░░░░░░░░░░░░   10.9%
-Thursday                 48 commits       ███░░░░░░░░░░░░░░░░░░   15.0%
-Friday                   42 commits       ███░░░░░░░░░░░░░░░░░░   13.1%
-Saturday                 65 commits       █████░░░░░░░░░░░░░░░░   20.3%
-Sunday                   45 commits       ███░░░░░░░░░░░░░░░░░░   14.1%
-```
-<!--END_SECTION:waka-->
-
-## 🌈 GitHub Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/demrdev?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FIstanbul" alt="Metrics" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=demrdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=demrdev&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 📈 Contribution Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demrdev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=demrdev&theme=tokyonight" />
+</div>
+
+## 🌈 Activity Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=demrdev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=demrdev&theme=tokyonight" />
 </div>
 
 ## 🔥 Streak Stats
@@ -199,7 +188,9 @@ Sunday                   45 commits       ███░░░░░░░░░�
 ## 🌟 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://skyline.github.com/demrdev/2024.svg" width="100%" alt="2024 GitHub Skyline" />
+  <a href="https://skyline.github.com/demrdev/2025">
+    <img src="https://skyline.github.com/demrdev/2025.svg" width="100%" alt="2025 GitHub Skyline" />
+  </a>
 </div>
 
 ## 💻 Coding Activity
