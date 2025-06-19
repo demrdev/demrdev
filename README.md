@@ -1,7 +1,18 @@
-# Hi there, I'm Ahmet Demir 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ahmet%20Demir&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Flutter%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E88F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Mobile+Developer;Open+Source+Enthusiast;Problem+Solver;Code+is+Poetry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E88F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Welcome+to+my+Digital+Workshop!+%F0%9F%9A%80;Where+Code+Meets+Creativity+%F0%9F%8E%A8" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-AhmetDemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetdemir/)](https://www.linkedin.com/in/ahmetdemir/)
+  [![Gmail Badge](https://img.shields.io/badge/-ahmet@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmet@example.com)](mailto:ahmet@example.com)
+  ![](https://komarev.com/ghpvc/?username=demrdev&color=brightgreen&style=flat-square)
+  <img src="https://img.shields.io/github/followers/demrdev?label=Follow&style=social" />
+  
 </div>
 
 <div align="center">
@@ -121,14 +132,74 @@ Frontend_Development:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=demrdev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Come Alive!
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demrdev/demrdev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demrdev/demrdev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/demrdev/demrdev/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+![Snake animation](https://github.com/demrdev/demrdev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/demrdev/demrdev/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+## 🎮 GitHub Profile Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=demrdev&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophy" />
+</div>
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C140%20hrs%2032%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                40 commits       ███░░░░░░░░░░░░░░░░░░   12.5%
+🌆 Daytime                85 commits       ██████░░░░░░░░░░░░░░░   26.6%
+🌃 Evening                120 commits      █████████░░░░░░░░░░░░   37.5%
+🌙 Night                  75 commits       ██████░░░░░░░░░░░░░░░   23.4%
+```
+
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   45 commits       ███░░░░░░░░░░░░░░░░░░   14.1%
+Tuesday                  40 commits       ███░░░░░░░░░░░░░░░░░░   12.5%
+Wednesday                35 commits       ██░░░░░░░░░░░░░░░░░░░   10.9%
+Thursday                 48 commits       ███░░░░░░░░░░░░░░░░░░   15.0%
+Friday                   42 commits       ███░░░░░░░░░░░░░░░░░░   13.1%
+Saturday                 65 commits       █████░░░░░░░░░░░░░░░░   20.3%
+Sunday                   45 commits       ███░░░░░░░░░░░░░░░░░░   14.1%
+```
+<!--END_SECTION:waka-->
+
+## 🌈 GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/demrdev?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FIstanbul" alt="Metrics" />
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=demrdev&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=2E88F7&ring=2E88F7&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=2E88F7&sideNums=FFFFFF&sideLabels=2E88F7" alt="GitHub Streak" />
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%26%20Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building-Open%20Source%20Projects-28a745?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+## 🌟 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://skyline.github.com/demrdev/2024.svg" width="100%" alt="2024 GitHub Skyline" />
 </div>
 
 ## 💻 Coding Activity
@@ -141,14 +212,31 @@ TypeScript      ████░░░░░░░░░░░░░░░░   2
 Other           ██░░░░░░░░░░░░░░░░░░   10%
 ```
 
+## 🎨 Let's Create Something Amazing Together!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=demrdev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  ### 💫 "Code is not just what I do, it's who I am"
+  
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge" alt="Powered by Coffee" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning%20🚀-blue?style=for-the-badge" alt="Always Learning" />
+  
   <br>
-  <i>⭐️ From <a href="https://github.com/demrdev">demrdev</a> | Built with passion and code</i>
+  
+  <img src="https://komarev.com/ghpvc/?username=demrdev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  
+  <br>
+  
+  <i>⭐️ From <a href="https://github.com/demrdev">demrdev</a> | Let's connect and build the future together!</i>
 </div>
