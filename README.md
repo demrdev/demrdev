@@ -75,9 +75,49 @@ I'm a passionate developer who believes that coding is not just about solving pr
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/demrdev/word_to_json">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demrdev&repo=word_to_json&theme=tokyonight&hide_border=true" alt="Word to JSON Converter" />
-  </a>
+  
+  ### 📌 My Latest Work
+  
+  <div align="center">
+    <a href="https://github.com/demrdev/word_to_json">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=demrdev&repo=word_to_json&theme=tokyonight&hide_border=true" />
+    </a>
+  </div>
+  
+  <br>
+  
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🔧 Word to JSON Converter</h3>
+        <div align="center">
+          <a href="https://github.com/demrdev/word_to_json">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+          </a>
+          <p>
+            <a href="https://github.com/demrdev/word_to_json/stargazers">
+              <img src="https://img.shields.io/github/stars/demrdev/word_to_json?style=social" />
+            </a>
+            <a href="https://github.com/demrdev/word_to_json/network/members">
+              <img src="https://img.shields.io/github/forks/demrdev/word_to_json?style=social" />
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📱 Flutter Projects</h3>
+        <div align="center">
+          <a href="https://github.com/demrdev?tab=repositories&q=flutter">
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+            <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+          </a>
+          <p>Building cross-platform mobile applications</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
 ### 🚀 What I'm Building
